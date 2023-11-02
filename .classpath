@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/byte-buddy-1.8.12.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/geolatte-geom-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-c3p0-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-commons-annotations-5.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-core-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-envers-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-jpamodelgen-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-osgi-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-proxool-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/hibernate-spatial-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/jandex-2.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/javassist-3.22.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/jts-core-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/org.osgi.compendium-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/org.osgi.core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/postgresql-42.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/HybernateJarFiles/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Official/Java Full Stack Development/MySQLJarFiles/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
